@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://drharishnerella.pages.dev/sitemap.xml
